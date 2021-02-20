@@ -1,3 +1,4 @@
+## React Chrome Extension Boilerplate
 This Project was for create chrome extension boilerplate
 It include:
 1. React - Typescript
