@@ -2,8 +2,9 @@
 This Project was for create chrome extension boilerplate
 It include:
 1. React - Typescript
-2. Redux
+2. Redux - (Redux Thunk & Redux-Observable)
 3. React Router
+4. RxJS
 
 ## Available Scripts
 
