@@ -8,11 +8,9 @@ import { RootProps } from './types/common'
 
 const render = (Component: React.FC<RootProps>)  => {
   ReactDOM.render(
-    <React.StrictMode>
       <Provider store={store}>
         <Component history={history} />
-      </Provider>
-    </React.StrictMode>,
+      </Provider>,
     document.getElementById('root')
   );
 }
